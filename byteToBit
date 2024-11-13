@@ -1,0 +1,4 @@
+byte=int(input("Enter byte: "))
+
+bits = byte * 8
+print("Given byte converted into bit are: ",bits)
